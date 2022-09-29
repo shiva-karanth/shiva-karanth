@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva-karanth&label=Profile%20views&color=0e75b6&style=flat" alt="shiva-karanth" /> </p>
 
-<p align="left"> <a href="https://twitter.com/paramas67916171" target="blank"><img src="https://img.shields.io/twitter/follow/paramas67916171?logo=twitter&style=for-the-badge" alt="paramas67916171" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shiv__karanth" target="blank"><img src="https://img.shields.io/twitter/follow/paramas67916171?logo=twitter&style=for-the-badge" alt="paramas67916171" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
