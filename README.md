@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva-karanth&label=Profile%20views&color=0e75b6&style=flat" alt="shiva-karanth" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shiv__karanth" target="blank"><img src="https://img.shields.io/twitter/follow/paramas67916171?logo=twitter&style=for-the-badge" alt="shiv__karanth" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shiv__karanth" target="blank"><img src="https://img.shields.io/twitter/follow/shiv__karanth?logo=twitter&style=for-the-badge" alt="shiv__karanth" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/paramas67916171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paramas67916171" height="30" width="40" /></a>
+<a href="https://twitter.com/shiv__karanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paramas67916171" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/paramashivakaranth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paramashiva karanth" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14763998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14763998" height="30" width="40" /></a>
 <a href="https://instagram.com/shiv__karanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiv__karanth" height="30" width="40" /></a>
